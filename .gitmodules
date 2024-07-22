@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:jasielrt95/trivializer-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jasielrt95/trivializerBackend.git
